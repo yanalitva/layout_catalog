@@ -115,6 +115,7 @@ body {
 }
 
 .card__title {
+  margin-top: 0;
   margin-bottom: 4px;
   font-size: 12px;
   font-weight: 500;
@@ -158,6 +159,8 @@ body {
   height: 16px;
   background-image: url('../images/star.svg');
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   margin-right: 4px;
 }
 
